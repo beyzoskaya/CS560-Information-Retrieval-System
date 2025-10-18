@@ -1,0 +1,2403 @@
+Word: abilty
+Total generated candidates: 338
+Known candidates (1):
+   ability         freq=14
+=> Selected best candidate: ability (freq=14)
+
+Word: abraod
+Total generated candidates: 338
+Known candidates (1):
+   abroad          freq=54
+=> Selected best candidate: abroad (freq=54)
+
+Word: acedemic
+Total generated candidates: 442
+Known candidates (1):
+   academic        freq=4
+=> Selected best candidate: academic (freq=4)
+
+Word: accesion
+Total generated candidates: 440
+Known candidates (1):
+   accession       freq=6
+=> Selected best candidate: accession (freq=6)
+
+Word: accomodate
+Total generated candidates: 544
+Known candidates (1):
+   accommodate     freq=4
+=> Selected best candidate: accommodate (freq=4)
+
+Word: acordance
+Total generated candidates: 494
+Known candidates (1):
+   accordance      freq=16
+=> Selected best candidate: accordance (freq=16)
+
+Word: accruately
+Total generated candidates: 544
+Known candidates (1):
+   accurately      freq=17
+=> Selected best candidate: accurately (freq=17)
+
+Word: acieved
+Total generated candidates: 390
+Known candidates (1):
+   achieved        freq=9
+=> Selected best candidate: achieved (freq=9)
+
+Word: accheived
+Total generated candidates: 492
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: additonal
+Total generated candidates: 492
+Known candidates (1):
+   additional      freq=30
+=> Selected best candidate: additional (freq=30)
+
+Word: adjacnt
+Total generated candidates: 390
+Known candidates (1):
+   adjacent        freq=93
+=> Selected best candidate: adjacent (freq=93)
+
+Word: admiistered
+Total generated candidates: 596
+Known candidates (1):
+   administered    freq=18
+=> Selected best candidate: administered (freq=18)
+
+Word: amibuity
+Total generated candidates: 442
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: ambulence
+Total generated candidates: 494
+Known candidates (1):
+   ambulance       freq=7
+=> Selected best candidate: ambulance (freq=7)
+
+Word: anlaysis
+Total generated candidates: 442
+Known candidates (1):
+   analysis        freq=20
+=> Selected best candidate: analysis (freq=20)
+
+Word: aand
+Total generated candidates: 232
+Known candidates (6):
+   and             freq=38313
+   band            freq=54
+   hand            freq=834
+   land            freq=279
+   sand            freq=16
+   wand            freq=1
+=> Selected best candidate: and (freq=38313)
+
+Word: aswering
+Total generated candidates: 442
+Known candidates (1):
+   answering       freq=37
+=> Selected best candidate: answering (freq=37)
+
+Word: apolgies
+Total generated candidates: 442
+Known candidates (1):
+   apologies       freq=5
+=> Selected best candidate: apologies (freq=5)
+
+Word: apparant
+Total generated candidates: 440
+Known candidates (1):
+   apparent        freq=42
+=> Selected best candidate: apparent (freq=42)
+
+Word: apperently
+Total generated candidates: 544
+Known candidates (1):
+   apparently      freq=68
+=> Selected best candidate: apparently (freq=68)
+
+Word: appraoch
+Total generated candidates: 440
+Known candidates (1):
+   approach        freq=40
+=> Selected best candidate: approach (freq=40)
+
+Word: appropriat
+Total generated candidates: 544
+Known candidates (1):
+   appropriate     freq=32
+=> Selected best candidate: appropriate (freq=32)
+
+Word: appropiate
+Total generated candidates: 544
+Known candidates (1):
+   appropriate     freq=32
+=> Selected best candidate: appropriate (freq=32)
+
+Word: apprpriate
+Total generated candidates: 544
+Known candidates (1):
+   appropriate     freq=32
+=> Selected best candidate: appropriate (freq=32)
+
+Word: approximatly
+Total generated candidates: 648
+Known candidates (1):
+   approximately   freq=13
+=> Selected best candidate: approximately (freq=13)
+
+Word: arguements
+Total generated candidates: 546
+Known candidates (1):
+   arguments       freq=38
+=> Selected best candidate: arguments (freq=38)
+
+Word: acsertained
+Total generated candidates: 598
+Known candidates (1):
+   ascertained     freq=6
+=> Selected best candidate: ascertained (freq=6)
+
+Word: assigmments
+Total generated candidates: 594
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: assistence
+Total generated candidates: 544
+Known candidates (1):
+   assistance      freq=52
+=> Selected best candidate: assistance (freq=52)
+
+Word: assiciated
+Total generated candidates: 544
+Known candidates (1):
+   associated      freq=196
+=> Selected best candidate: associated (freq=196)
+
+Word: assocaited
+Total generated candidates: 544
+Known candidates (1):
+   associated      freq=196
+=> Selected best candidate: associated (freq=196)
+
+Word: asociation
+Total generated candidates: 546
+Known candidates (1):
+   association     freq=45
+=> Selected best candidate: association (freq=45)
+
+Word: asyncronously
+Total generated candidates: 702
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: atending
+Total generated candidates: 442
+Known candidates (3):
+   amending        freq=2
+   attending       freq=16
+   tending         freq=5
+=> Selected best candidate: attending (freq=16)
+
+Word: autumatic
+Total generated candidates: 494
+Known candidates (1):
+   automatic       freq=3
+=> Selected best candidate: automatic (freq=3)
+
+Word: avaiable
+Total generated candidates: 442
+Known candidates (1):
+   available       freq=37
+=> Selected best candidate: available (freq=37)
+
+Word: aviable
+Total generated candidates: 390
+Known candidates (2):
+   amiable         freq=21
+   viable          freq=2
+=> Selected best candidate: amiable (freq=21)
+
+Word: avilable
+Total generated candidates: 442
+Known candidates (1):
+   available       freq=37
+=> Selected best candidate: available (freq=37)
+
+Word: awaitin
+Total generated candidates: 390
+Known candidates (1):
+   awaiting        freq=53
+=> Selected best candidate: awaiting (freq=53)
+
+Word: baiscally
+Total generated candidates: 492
+Known candidates (1):
+   basically       freq=1
+=> Selected best candidate: basically (freq=1)
+
+Word: bacome
+Total generated candidates: 338
+Known candidates (1):
+   become          freq=409
+=> Selected best candidate: become (freq=409)
+
+Word: bloked
+Total generated candidates: 338
+Known candidates (3):
+   blocked         freq=30
+   bloke           freq=1
+   booked          freq=1
+=> Selected best candidate: blocked (freq=30)
+
+Word: borrowr
+Total generated candidates: 388
+Known candidates (1):
+   borrow          freq=6
+=> Selected best candidate: borrow (freq=6)
+
+Word: braching
+Total generated candidates: 442
+Known candidates (1):
+   branching       freq=3
+=> Selected best candidate: branching (freq=3)
+
+Word: broard
+Total generated candidates: 338
+Known candidates (2):
+   board           freq=34
+   broad           freq=92
+=> Selected best candidate: broad (freq=92)
+
+Word: bradcast
+Total generated candidates: 442
+Known candidates (1):
+   broadcast       freq=4
+=> Selected best candidate: broadcast (freq=4)
+
+Word: bradcasting
+Total generated candidates: 598
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: bulletings
+Total generated candidates: 544
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: calulated
+Total generated candidates: 494
+Known candidates (1):
+   calculated      freq=19
+=> Selected best candidate: calculated (freq=19)
+
+Word: camara
+Total generated candidates: 338
+Known candidates (1):
+   camera          freq=2
+=> Selected best candidate: camera (freq=2)
+
+Word: canditate
+Total generated candidates: 494
+Known candidates (1):
+   candidate       freq=56
+=> Selected best candidate: candidate (freq=56)
+
+Word: capabiltes
+Total generated candidates: 546
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: cataloge
+Total generated candidates: 442
+Known candidates (1):
+   catalogue       freq=2
+=> Selected best candidate: catalogue (freq=2)
+
+Word: catakoguing
+Total generated candidates: 598
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: catalguing
+Total generated candidates: 546
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: cataloguin
+Total generated candidates: 546
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: cntral
+Total generated candidates: 338
+Known candidates (1):
+   central         freq=76
+=> Selected best candidate: central (freq=76)
+
+Word: challange
+Total generated candidates: 492
+Known candidates (1):
+   challenge       freq=31
+=> Selected best candidate: challenge (freq=31)
+
+Word: chnaging
+Total generated candidates: 442
+Known candidates (1):
+   changing        freq=44
+=> Selected best candidate: changing (freq=44)
+
+Word: characterissing
+Total generated candidates: 804
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: chacked
+Total generated candidates: 390
+Known candidates (5):
+   chalked         freq=1
+   checked         freq=22
+   chucked         freq=2
+   cracked         freq=13
+   hacked          freq=1
+=> Selected best candidate: checked (freq=22)
+
+Word: cisting
+Total generated candidates: 390
+Known candidates (3):
+   casting         freq=11
+   costing         freq=5
+   listing         freq=4
+=> Selected best candidate: casting (freq=11)
+
+Word: cleint
+Total generated candidates: 338
+Known candidates (1):
+   client          freq=33
+=> Selected best candidate: client (freq=33)
+
+Word: coeffcient
+Total generated candidates: 544
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: coeficient
+Total generated candidates: 546
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: cofficient
+Total generated candidates: 544
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: cogntive
+Total generated candidates: 442
+Known candidates (1):
+   cognitive       freq=1
+=> Selected best candidate: cognitive (freq=1)
+
+Word: collecyting
+Total generated candidates: 596
+Known candidates (1):
+   collecting      freq=17
+=> Selected best candidate: collecting (freq=17)
+
+Word: cpmmercially
+Total generated candidates: 646
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: commitee
+Total generated candidates: 438
+Known candidates (1):
+   committee       freq=39
+=> Selected best candidate: committee (freq=39)
+
+Word: comon
+Total generated candidates: 286
+Known candidates (3):
+   colon           freq=9
+   coman           freq=17
+   common          freq=287
+=> Selected best candidate: common (freq=287)
+
+Word: commenest
+Total generated candidates: 492
+Known candidates (1):
+   commonest       freq=27
+=> Selected best candidate: commonest (freq=27)
+
+Word: communcation
+Total generated candidates: 648
+Known candidates (1):
+   communication   freq=42
+=> Selected best candidate: communication (freq=42)
+
+Word: comporable
+Total generated candidates: 546
+Known candidates (1):
+   comparable      freq=6
+=> Selected best candidate: comparable (freq=6)
+
+Word: comparitive
+Total generated candidates: 598
+Known candidates (1):
+   comparative     freq=11
+=> Selected best candidate: comparative (freq=11)
+
+Word: compariosns
+Total generated candidates: 598
+Known candidates (1):
+   comparisons     freq=1
+=> Selected best candidate: comparisons (freq=1)
+
+Word: complting
+Total generated candidates: 494
+Known candidates (4):
+   competing       freq=2
+   completing      freq=2
+   complying       freq=8
+   computing       freq=1
+=> Selected best candidate: complying (freq=8)
+
+Word: complementary
+Total generated candidates: 702
+Known candidates (2):
+   complementary   freq=1
+   complimentary   freq=1
+=> Selected best candidate: complimentary (freq=1)
+
+Word: concetrate
+Total generated candidates: 546
+Known candidates (1):
+   concentrate     freq=5
+=> Selected best candidate: concentrate (freq=5)
+
+Word: connecton
+Total generated candidates: 492
+Known candidates (1):
+   connection      freq=103
+=> Selected best candidate: connection (freq=103)
+
+Word: connectivies
+Total generated candidates: 648
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: conservatie
+Total generated candidates: 598
+Known candidates (1):
+   conservative    freq=44
+=> Selected best candidate: conservative (freq=44)
+
+Word: contining
+Total generated candidates: 494
+Known candidates (3):
+   confining       freq=3
+   containing      freq=68
+   continuing      freq=20
+=> Selected best candidate: containing (freq=68)
+
+Word: contins
+Total generated candidates: 390
+Known candidates (1):
+   contains        freq=36
+=> Selected best candidate: contains (freq=36)
+
+Word: conitent
+Total generated candidates: 442
+Known candidates (1):
+   content         freq=29
+=> Selected best candidate: content (freq=29)
+
+Word: controll
+Total generated candidates: 440
+Known candidates (2):
+   control         freq=122
+   controls        freq=3
+=> Selected best candidate: control (freq=122)
+
+Word: convential
+Total generated candidates: 546
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: converzely
+Total generated candidates: 546
+Known candidates (1):
+   conversely      freq=3
+=> Selected best candidate: conversely (freq=3)
+
+Word: coversion
+Total generated candidates: 494
+Known candidates (1):
+   conversion      freq=7
+=> Selected best candidate: conversion (freq=7)
+
+Word: cooperqtion
+Total generated candidates: 596
+Known candidates (1):
+   cooperation     freq=21
+=> Selected best candidate: cooperation (freq=21)
+
+Word: cordonning
+Total generated candidates: 544
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: corresond
+Total generated candidates: 492
+Known candidates (1):
+   correspond      freq=15
+=> Selected best candidate: correspond (freq=15)
+
+Word: correspondance
+Total generated candidates: 752
+Known candidates (1):
+   correspondence  freq=24
+=> Selected best candidate: correspondence (freq=24)
+
+Word: councelling
+Total generated candidates: 596
+Known candidates (1):
+   counselling     freq=1
+=> Selected best candidate: counselling (freq=1)
+
+Word: critisised
+Total generated candidates: 546
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: critisisms
+Total generated candidates: 546
+Known candidates (1):
+   criticisms      freq=7
+=> Selected best candidate: criticisms (freq=7)
+
+Word: decid
+Total generated candidates: 286
+Known candidates (1):
+   decide          freq=33
+=> Selected best candidate: decide (freq=33)
+
+Word: decresing
+Total generated candidates: 494
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: deficite
+Total generated candidates: 442
+Known candidates (2):
+   deficit         freq=1
+   definite        freq=78
+=> Selected best candidate: definite (freq=78)
+
+Word: definate
+Total generated candidates: 442
+Known candidates (1):
+   definite        freq=78
+=> Selected best candidate: definite (freq=78)
+
+Word: definately
+Total generated candidates: 546
+Known candidates (1):
+   definitely      freq=35
+=> Selected best candidate: definitely (freq=35)
+
+Word: degredation
+Total generated candidates: 598
+Known candidates (1):
+   degradation     freq=3
+=> Selected best candidate: degradation (freq=3)
+
+Word: deliberatly
+Total generated candidates: 598
+Known candidates (1):
+   deliberately    freq=23
+=> Selected best candidate: deliberately (freq=23)
+
+Word: dependant
+Total generated candidates: 494
+Known candidates (3):
+   cependant       freq=1
+   defendant       freq=1
+   dependent       freq=30
+=> Selected best candidate: dependent (freq=30)
+
+Word: descrived
+Total generated candidates: 494
+Known candidates (2):
+   described       freq=151
+   descried        freq=3
+=> Selected best candidate: described (freq=151)
+
+Word: desireble
+Total generated candidates: 494
+Known candidates (1):
+   desirable       freq=16
+=> Selected best candidate: desirable (freq=16)
+
+Word: dispatched
+Total generated candidates: 546
+Known candidates (3):
+   despatched      freq=1
+   dispatched      freq=18
+   dispatches      freq=3
+=> Selected best candidate: dispatched (freq=18)
+
+Word: desparate
+Total generated candidates: 494
+Known candidates (1):
+   desperate       freq=32
+=> Selected best candidate: desperate (freq=32)
+
+Word: detaile
+Total generated candidates: 390
+Known candidates (3):
+   detail          freq=38
+   detailed        freq=12
+   details         freq=67
+=> Selected best candidate: details (freq=67)
+
+Word: detailled
+Total generated candidates: 492
+Known candidates (1):
+   detailed        freq=12
+=> Selected best candidate: detailed (freq=12)
+
+Word: detrmines
+Total generated candidates: 494
+Known candidates (1):
+   determines      freq=8
+=> Selected best candidate: determines (freq=8)
+
+Word: deveoop
+Total generated candidates: 388
+Known candidates (1):
+   develop         freq=56
+=> Selected best candidate: develop (freq=56)
+
+Word: diagramatically
+Total generated candidates: 804
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: differnt
+Total generated candidates: 440
+Known candidates (1):
+   different       freq=274
+=> Selected best candidate: different (freq=274)
+
+Word: disapointment
+Total generated candidates: 702
+Known candidates (1):
+   disappointment  freq=12
+=> Selected best candidate: disappointment (freq=12)
+
+Word: distibution
+Total generated candidates: 598
+Known candidates (1):
+   distribution    freq=62
+=> Selected best candidate: distribution (freq=62)
+
+Word: doculents
+Total generated candidates: 494
+Known candidates (1):
+   documents       freq=11
+=> Selected best candidate: documents (freq=11)
+
+Word: odne
+Total generated candidates: 234
+Known candidates (4):
+   done            freq=428
+   ode             freq=1
+   omne            freq=1
+   one             freq=3371
+=> Selected best candidate: one (freq=3371)
+
+Word: donstream
+Total generated candidates: 494
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: eaxh
+Total generated candidates: 234
+Known candidates (1):
+   each            freq=411
+=> Selected best candidate: each (freq=411)
+
+Word: eassier
+Total generated candidates: 388
+Known candidates (1):
+   easier          freq=26
+=> Selected best candidate: easier (freq=26)
+
+Word: effeiciency
+Total generated candidates: 596
+Known candidates (1):
+   efficiency      freq=8
+=> Selected best candidate: efficiency (freq=8)
+
+Word: efficienct
+Total generated candidates: 544
+Known candidates (2):
+   efficiency      freq=8
+   efficient       freq=22
+=> Selected best candidate: efficient (freq=22)
+
+Word: elimiation
+Total generated candidates: 546
+Known candidates (1):
+   elimination     freq=3
+=> Selected best candidate: elimination (freq=3)
+
+Word: eleimination
+Total generated candidates: 650
+Known candidates (1):
+   elimination     freq=3
+=> Selected best candidate: elimination (freq=3)
+
+Word: eminating
+Total generated candidates: 494
+Known candidates (1):
+   emanating       freq=2
+=> Selected best candidate: emanating (freq=2)
+
+Word: enrergy
+Total generated candidates: 390
+Known candidates (1):
+   energy          freq=45
+=> Selected best candidate: energy (freq=45)
+
+Word: netry
+Total generated candidates: 286
+Known candidates (1):
+   entry           freq=21
+=> Selected best candidate: entry (freq=21)
+
+Word: enviroment
+Total generated candidates: 546
+Known candidates (1):
+   environment     freq=6
+=> Selected best candidate: environment (freq=6)
+
+Word: invironment
+Total generated candidates: 598
+Known candidates (1):
+   environment     freq=6
+=> Selected best candidate: environment (freq=6)
+
+Word: equilisation
+Total generated candidates: 650
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: examiniation
+Total generated candidates: 650
+Known candidates (1):
+   examination     freq=72
+=> Selected best candidate: examination (freq=72)
+
+Word: exmple
+Total generated candidates: 338
+Known candidates (1):
+   example         freq=286
+=> Selected best candidate: example (freq=286)
+
+Word: excede
+Total generated candidates: 338
+Known candidates (1):
+   exceed          freq=8
+=> Selected best candidate: exceed (freq=8)
+
+Word: exemplyfied
+Total generated candidates: 598
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: exta
+Total generated candidates: 234
+Known candidates (2):
+   ext             freq=1
+   extra           freq=22
+=> Selected best candidate: extra (freq=22)
+
+Word: facillated
+Total generated candidates: 544
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: facilites
+Total generated candidates: 494
+Known candidates (1):
+   facilities      freq=9
+=> Selected best candidate: facilities (freq=9)
+
+Word: faciliities
+Total generated candidates: 596
+Known candidates (1):
+   facilities      freq=9
+=> Selected best candidate: facilities (freq=9)
+
+Word: fairlu
+Total generated candidates: 338
+Known candidates (1):
+   fairly          freq=25
+=> Selected best candidate: fairly (freq=25)
+
+Word: faiyhfully
+Total generated candidates: 544
+Known candidates (1):
+   faithfully      freq=9
+=> Selected best candidate: faithfully (freq=9)
+
+Word: fassion
+Total generated candidates: 388
+Known candidates (3):
+   fashion         freq=49
+   fission         freq=4
+   passion         freq=35
+=> Selected best candidate: fashion (freq=49)
+
+Word: feld
+Total generated candidates: 234
+Known candidates (10):
+   fed             freq=24
+   feed            freq=10
+   fell            freq=177
+   felo            freq=1
+   felt            freq=697
+   field           freq=212
+   fled            freq=40
+   fold            freq=23
+   held            freq=287
+   weld            freq=2
+=> Selected best candidate: felt (freq=697)
+
+Word: irst
+Total generated candidates: 234
+Known candidates (4):
+   first           freq=1177
+   inst            freq=2
+   irs             freq=3
+   ist             freq=1
+=> Selected best candidate: first (freq=1177)
+
+Word: firtly
+Total generated candidates: 338
+Known candidates (2):
+   firmly          freq=73
+   firstly         freq=3
+=> Selected best candidate: firmly (freq=73)
+
+Word: fisrtly
+Total generated candidates: 390
+Known candidates (1):
+   firstly         freq=3
+=> Selected best candidate: firstly (freq=3)
+
+Word: felxibility
+Total generated candidates: 598
+Known candidates (1):
+   flexibility     freq=2
+=> Selected best candidate: flexibility (freq=2)
+
+Word: forseeable
+Total generated candidates: 544
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: frquently
+Total generated candidates: 494
+Known candidates (1):
+   frequently      freq=218
+=> Selected best candidate: frequently (freq=218)
+
+Word: funcional
+Total generated candidates: 494
+Known candidates (1):
+   functional      freq=9
+=> Selected best candidate: functional (freq=9)
+
+Word: futher
+Total generated candidates: 338
+Known candidates (3):
+   father          freq=533
+   further         freq=138
+   luther          freq=1
+=> Selected best candidate: father (freq=533)
+
+Word: genral
+Total generated candidates: 338
+Known candidates (2):
+   general         freq=836
+   genial          freq=7
+=> Selected best candidate: general (freq=836)
+
+Word: glacnce
+Total generated candidates: 390
+Known candidates (1):
+   glance          freq=91
+=> Selected best candidate: glance (freq=91)
+
+Word: govermental
+Total generated candidates: 598
+Known candidates (1):
+   governmental    freq=5
+=> Selected best candidate: governmental (freq=5)
+
+Word: gretaer
+Total generated candidates: 390
+Known candidates (1):
+   greater         freq=143
+=> Selected best candidate: greater (freq=143)
+
+Word: hanbook
+Total generated candidates: 388
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: hieghtened
+Total generated candidates: 546
+Known candidates (1):
+   heightened      freq=5
+=> Selected best candidate: heightened (freq=5)
+
+Word: heuritics
+Total generated candidates: 494
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: heirarchy
+Total generated candidates: 494
+Known candidates (1):
+   hierarchy       freq=4
+=> Selected best candidate: hierarchy (freq=4)
+
+Word: homr
+Total generated candidates: 234
+Known candidates (4):
+   hoar            freq=5
+   home            freq=295
+   homer           freq=1
+   hour            freq=157
+=> Selected best candidate: home (freq=295)
+
+Word: hoenst
+Total generated candidates: 338
+Known candidates (1):
+   honest          freq=23
+=> Selected best candidate: honest (freq=23)
+
+Word: howver
+Total generated candidates: 338
+Known candidates (2):
+   hover           freq=2
+   however         freq=430
+=> Selected best candidate: however (freq=430)
+
+Word: howevever
+Total generated candidates: 494
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: ilustrate
+Total generated candidates: 494
+Known candidates (1):
+   illustrate      freq=9
+=> Selected best candidate: illustrate (freq=9)
+
+Word: illustartion
+Total generated candidates: 648
+Known candidates (1):
+   illustration    freq=285
+=> Selected best candidate: illustration (freq=285)
+
+Word: immediatly
+Total generated candidates: 544
+Known candidates (1):
+   immediately     freq=182
+=> Selected best candidate: immediately (freq=182)
+
+Word: impotant
+Total generated candidates: 442
+Known candidates (2):
+   important       freq=285
+   impotent        freq=3
+=> Selected best candidate: important (freq=285)
+
+Word: importnat
+Total generated candidates: 494
+Known candidates (1):
+   important       freq=285
+=> Selected best candidate: important (freq=285)
+
+Word: impossibilty
+Total generated candidates: 648
+Known candidates (1):
+   impossibility   freq=14
+=> Selected best candidate: impossibility (freq=14)
+
+Word: impractible
+Total generated candidates: 598
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: innapropriate
+Total generated candidates: 700
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: increasinly
+Total generated candidates: 598
+Known candidates (1):
+   increasingly    freq=4
+=> Selected best candidate: increasingly (freq=4)
+
+Word: increented
+Total generated candidates: 544
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: independance
+Total generated candidates: 650
+Known candidates (1):
+   independence    freq=151
+=> Selected best candidate: independence (freq=151)
+
+Word: independant
+Total generated candidates: 598
+Known candidates (1):
+   independent     freq=73
+=> Selected best candidate: independent (freq=73)
+
+Word: individula
+Total generated candidates: 546
+Known candidates (1):
+   individual      freq=119
+=> Selected best candidate: individual (freq=119)
+
+Word: indiviual
+Total generated candidates: 494
+Known candidates (1):
+   individual      freq=119
+=> Selected best candidate: individual (freq=119)
+
+Word: indidual
+Total generated candidates: 442
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: undividually
+Total generated candidates: 648
+Known candidates (1):
+   individually    freq=4
+=> Selected best candidate: individually (freq=4)
+
+Word: innefficient
+Total generated candidates: 646
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: ineviatbly
+Total generated candidates: 546
+Known candidates (1):
+   inevitably      freq=32
+=> Selected best candidate: inevitably (freq=32)
+
+Word: infromation
+Total generated candidates: 598
+Known candidates (1):
+   information     freq=73
+=> Selected best candidate: information (freq=73)
+
+Word: onformation
+Total generated candidates: 598
+Known candidates (1):
+   information     freq=73
+=> Selected best candidate: information (freq=73)
+
+Word: instal
+Total generated candidates: 338
+Known candidates (2):
+   instal          freq=1
+   install         freq=1
+=> Selected best candidate: instal (freq=1)
+
+Word: niternational
+Total generated candidates: 702
+Known candidates (1):
+   international   freq=46
+=> Selected best candidate: international (freq=46)
+
+Word: internationlly
+Total generated candidates: 752
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: intercine
+Total generated candidates: 494
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: interprte
+Total generated candidates: 494
+Known candidates (1):
+   interpret       freq=4
+=> Selected best candidate: interpret (freq=4)
+
+Word: interrpted
+Total generated candidates: 544
+Known candidates (1):
+   interrupted     freq=107
+=> Selected best candidate: interrupted (freq=107)
+
+Word: interuption
+Total generated candidates: 598
+Known candidates (1):
+   interruption    freq=5
+=> Selected best candidate: interruption (freq=5)
+
+Word: infroduction
+Total generated candidates: 650
+Known candidates (1):
+   introduction    freq=31
+=> Selected best candidate: introduction (freq=31)
+
+Word: invlving
+Total generated candidates: 442
+Known candidates (1):
+   involving       freq=18
+=> Selected best candidate: involving (freq=18)
+
+Word: tiem
+Total generated candidates: 234
+Known candidates (8):
+   item            freq=5
+   them            freq=2241
+   tie             freq=15
+   tied            freq=40
+   tier            freq=5
+   ties            freq=24
+   tim             freq=1
+   time            freq=1529
+=> Selected best candidate: them (freq=2241)
+
+Word: juridiction
+Total generated candidates: 598
+Known candidates (1):
+   jurisdiction    freq=17
+=> Selected best candidate: jurisdiction (freq=17)
+
+Word: kernal
+Total generated candidates: 338
+Known candidates (1):
+   vernal          freq=1
+=> Selected best candidate: vernal (freq=1)
+
+Word: lagre
+Total generated candidates: 286
+Known candidates (1):
+   large           freq=483
+=> Selected best candidate: large (freq=483)
+
+Word: mlarge
+Total generated candidates: 338
+Known candidates (1):
+   large           freq=483
+=> Selected best candidate: large (freq=483)
+
+Word: lenght
+Total generated candidates: 338
+Known candidates (1):
+   length          freq=63
+=> Selected best candidate: length (freq=63)
+
+Word: liase
+Total generated candidates: 286
+Known candidates (2):
+   lease           freq=3
+   lise            freq=30
+=> Selected best candidate: lise (freq=30)
+
+Word: libraies
+Total generated candidates: 442
+Known candidates (1):
+   libraries       freq=3
+=> Selected best candidate: libraries (freq=3)
+
+Word: ight
+Total generated candidates: 234
+Known candidates (10):
+   eight           freq=128
+   fight           freq=96
+   light           freq=278
+   might           freq=536
+   night           freq=385
+   right           freq=710
+   sight           freq=129
+   tight           freq=30
+   vight           freq=1
+   wight           freq=7
+=> Selected best candidate: right (freq=710)
+
+Word: likelyhood
+Total generated candidates: 544
+Known candidates (1):
+   likelihood      freq=2
+=> Selected best candidate: likelihood (freq=2)
+
+Word: likly
+Total generated candidates: 286
+Known candidates (2):
+   likely          freq=78
+   lily            freq=2
+=> Selected best candidate: likely (freq=78)
+
+Word: lits
+Total generated candidates: 234
+Known candidates (19):
+   bits            freq=8
+   fits            freq=14
+   hits            freq=1
+   its             freq=1635
+   kits            freq=2
+   lets            freq=7
+   lids            freq=8
+   lies            freq=86
+   lifts           freq=2
+   lips            freq=146
+   lis             freq=1
+   list            freq=48
+   lists           freq=9
+   lit             freq=74
+   lots            freq=8
+   pits            freq=4
+   sits            freq=6
+   slits           freq=1
+   wits            freq=7
+=> Selected best candidate: its (freq=1635)
+
+Word: listsings
+Total generated candidates: 494
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: lsits
+Total generated candidates: 286
+Known candidates (3):
+   lists           freq=9
+   sits            freq=6
+   slits           freq=1
+=> Selected best candidate: lists (freq=9)
+
+Word: laoned
+Total generated candidates: 338
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: logarihm
+Total generated candidates: 442
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: mianly
+Total generated candidates: 338
+Known candidates (3):
+   mainly          freq=75
+   manly           freq=13
+   meanly          freq=3
+=> Selected best candidate: mainly (freq=75)
+
+Word: mainenance
+Total generated candidates: 546
+Known candidates (1):
+   maintenance     freq=10
+=> Selected best candidate: maintenance (freq=10)
+
+Word: managable
+Total generated candidates: 494
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: maniputaltation
+Total generated candidates: 806
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: amnner
+Total generated candidates: 336
+Known candidates (1):
+   manner          freq=135
+=> Selected best candidate: manner (freq=135)
+
+Word: maenas
+Total generated candidates: 338
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: egabytes
+Total generated candidates: 442
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: modiefied
+Total generated candidates: 494
+Known candidates (1):
+   modified        freq=21
+=> Selected best candidate: modified (freq=21)
+
+Word: moleclar
+Total generated candidates: 442
+Known candidates (1):
+   molecular       freq=4
+=> Selected best candidate: molecular (freq=4)
+
+Word: molcular
+Total generated candidates: 442
+Known candidates (1):
+   molecular       freq=4
+=> Selected best candidate: molecular (freq=4)
+
+Word: nost
+Total generated candidates: 234
+Known candidates (10):
+   cost            freq=65
+   dost            freq=1
+   host            freq=23
+   lost            freq=224
+   most            freq=908
+   nest            freq=7
+   nos             freq=1
+   nose            freq=103
+   not             freq=6626
+   post            freq=117
+=> Selected best candidate: not (freq=6626)
+
+Word: omve
+Total generated candidates: 234
+Known candidates (2):
+   move            freq=101
+   omne            freq=1
+=> Selected best candidate: move (freq=101)
+
+Word: needd
+Total generated candidates: 282
+Known candidates (5):
+   need            freq=160
+   needed          freq=79
+   needn           freq=3
+   needs           freq=43
+   needy           freq=1
+=> Selected best candidate: need (freq=160)
+
+Word: nedded
+Total generated candidates: 336
+Known candidates (4):
+   bedded          freq=2
+   needed          freq=79
+   nodded          freq=46
+   wedded          freq=1
+=> Selected best candidate: needed (freq=79)
+
+Word: negitively
+Total generated candidates: 546
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: netowrks
+Total generated candidates: 442
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: noticieable
+Total generated candidates: 598
+Known candidates (1):
+   noticeable      freq=16
+=> Selected best candidate: noticeable (freq=16)
+
+Word: numbeer
+Total generated candidates: 388
+Known candidates (1):
+   number          freq=301
+=> Selected best candidate: number (freq=301)
+
+Word: obselete
+Total generated candidates: 442
+Known candidates (1):
+   obsolete        freq=4
+=> Selected best candidate: obsolete (freq=4)
+
+Word: obvios
+Total generated candidates: 338
+Known candidates (1):
+   obvious         freq=68
+=> Selected best candidate: obvious (freq=68)
+
+Word: obviosly
+Total generated candidates: 442
+Known candidates (1):
+   obviously       freq=38
+=> Selected best candidate: obviously (freq=38)
+
+Word: occassional
+Total generated candidates: 594
+Known candidates (1):
+   occasional      freq=24
+=> Selected best candidate: occasional (freq=24)
+
+Word: ofice
+Total generated candidates: 286
+Known candidates (1):
+   office          freq=131
+=> Selected best candidate: office (freq=131)
+
+Word: ommissions
+Total generated candidates: 542
+Known candidates (1):
+   commissions     freq=21
+=> Selected best candidate: commissions (freq=21)
+
+Word: onlt
+Total generated candidates: 234
+Known candidates (2):
+   only            freq=1873
+   ont             freq=1
+=> Selected best candidate: only (freq=1873)
+
+Word: poerator
+Total generated candidates: 442
+Known candidates (1):
+   operator        freq=5
+=> Selected best candidate: operator (freq=5)
+
+Word: apposed
+Total generated candidates: 388
+Known candidates (2):
+   apposed         freq=4
+   opposed         freq=54
+=> Selected best candidate: opposed (freq=54)
+
+Word: oredr
+Total generated candidates: 286
+Known candidates (1):
+   order           freq=404
+=> Selected best candidate: order (freq=404)
+
+Word: organisatios
+Total generated candidates: 650
+Known candidates (1):
+   organisation    freq=7
+=> Selected best candidate: organisation (freq=7)
+
+Word: ouput
+Total generated candidates: 286
+Known candidates (1):
+   output          freq=13
+=> Selected best candidate: output (freq=13)
+
+Word: overal
+Total generated candidates: 338
+Known candidates (1):
+   overall         freq=4
+=> Selected best candidate: overall (freq=4)
+
+Word: overcomming
+Total generated candidates: 596
+Known candidates (1):
+   overcoming      freq=5
+=> Selected best candidate: overcoming (freq=5)
+
+Word: overfil
+Total generated candidates: 390
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: overhaed
+Total generated candidates: 442
+Known candidates (1):
+   overhead        freq=6
+=> Selected best candidate: overhead (freq=6)
+
+Word: ovygex
+Total generated candidates: 338
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: particualar
+Total generated candidates: 598
+Known candidates (1):
+   particular      freq=92
+=> Selected best candidate: particular (freq=92)
+
+Word: particlar
+Total generated candidates: 494
+Known candidates (1):
+   particular      freq=92
+=> Selected best candidate: particular (freq=92)
+
+Word: periferal
+Total generated candidates: 494
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: permantly
+Total generated candidates: 494
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: phlology
+Total generated candidates: 442
+Known candidates (1):
+   philology       freq=1
+=> Selected best candidate: philology (freq=1)
+
+Word: pinic
+Total generated candidates: 286
+Known candidates (2):
+   panic           freq=20
+   picnic          freq=1
+=> Selected best candidate: panic (freq=20)
+
+Word: peices
+Total generated candidates: 338
+Known candidates (2):
+   pieces          freq=28
+   prices          freq=45
+=> Selected best candidate: prices (freq=45)
+
+Word: positve
+Total generated candidates: 390
+Known candidates (1):
+   positive        freq=44
+=> Selected best candidate: positive (freq=44)
+
+Word: possibilty
+Total generated candidates: 544
+Known candidates (1):
+   possibility     freq=89
+=> Selected best candidate: possibility (freq=89)
+
+Word: posible
+Total generated candidates: 390
+Known candidates (1):
+   possible        freq=339
+=> Selected best candidate: possible (freq=339)
+
+Word: potentialy
+Total generated candidates: 546
+Known candidates (2):
+   potential       freq=2
+   potentially     freq=1
+=> Selected best candidate: potential (freq=2)
+
+Word: practiaal
+Total generated candidates: 492
+Known candidates (1):
+   practical       freq=62
+=> Selected best candidate: practical (freq=62)
+
+Word: practictioner
+Total generated candidates: 702
+Known candidates (1):
+   practitioner    freq=2
+=> Selected best candidate: practitioner (freq=2)
+
+Word: predominently
+Total generated candidates: 702
+Known candidates (1):
+   predominantly   freq=1
+=> Selected best candidate: predominantly (freq=1)
+
+Word: preuming
+Total generated candidates: 442
+Known candidates (1):
+   presuming       freq=1
+=> Selected best candidate: presuming (freq=1)
+
+Word: previos
+Total generated candidates: 390
+Known candidates (1):
+   previous        freq=67
+=> Selected best candidate: previous (freq=67)
+
+Word: prioities
+Total generated candidates: 494
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: prsioners
+Total generated candidates: 494
+Known candidates (1):
+   prisoners       freq=122
+=> Selected best candidate: prisoners (freq=122)
+
+Word: probabally
+Total generated candidates: 544
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: probanly
+Total generated candidates: 442
+Known candidates (1):
+   probably        freq=147
+=> Selected best candidate: probably (freq=147)
+
+Word: pronlem
+Total generated candidates: 390
+Known candidates (1):
+   problem         freq=76
+=> Selected best candidate: problem (freq=76)
+
+Word: proceedure
+Total generated candidates: 544
+Known candidates (1):
+   procedure       freq=25
+=> Selected best candidate: procedure (freq=25)
+
+Word: proceure
+Total generated candidates: 442
+Known candidates (2):
+   procedure       freq=25
+   procure         freq=6
+=> Selected best candidate: procedure (freq=25)
+
+Word: prcessing
+Total generated candidates: 492
+Known candidates (2):
+   pressing        freq=66
+   processing      freq=6
+=> Selected best candidate: pressing (freq=66)
+
+Word: procesing
+Total generated candidates: 494
+Known candidates (1):
+   processing      freq=6
+=> Selected best candidate: processing (freq=6)
+
+Word: procesor
+Total generated candidates: 442
+Known candidates (1):
+   processor       freq=1
+=> Selected best candidate: processor (freq=1)
+
+Word: produts
+Total generated candidates: 390
+Known candidates (1):
+   products        freq=28
+=> Selected best candidate: products (freq=28)
+
+Word: pronouncments
+Total generated candidates: 702
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: proportionallity
+Total generated candidates: 856
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: prooved
+Total generated candidates: 388
+Known candidates (2):
+   grooved         freq=2
+   proved          freq=80
+=> Selected best candidate: proved (freq=80)
+
+Word: provid
+Total generated candidates: 338
+Known candidates (2):
+   proved          freq=80
+   provide         freq=47
+=> Selected best candidate: proved (freq=80)
+
+Word: quailty
+Total generated candidates: 390
+Known candidates (1):
+   quality         freq=19
+=> Selected best candidate: quality (freq=19)
+
+Word: quesionnaire
+Total generated candidates: 648
+Known candidates (1):
+   questionnaire   freq=1
+=> Selected best candidate: questionnaire (freq=1)
+
+Word: radiaclly
+Total generated candidates: 492
+Known candidates (1):
+   radically       freq=1
+=> Selected best candidate: radically (freq=1)
+
+Word: radiuss
+Total generated candidates: 388
+Known candidates (1):
+   radius          freq=11
+=> Selected best candidate: radius (freq=11)
+
+Word: rankd
+Total generated candidates: 286
+Known candidates (2):
+   rank            freq=45
+   ranks           freq=98
+=> Selected best candidate: ranks (freq=98)
+
+Word: reactioos
+Total generated candidates: 492
+Known candidates (1):
+   reactions       freq=6
+=> Selected best candidate: reactions (freq=6)
+
+Word: reactioons
+Total generated candidates: 544
+Known candidates (1):
+   reactions       freq=6
+=> Selected best candidate: reactions (freq=6)
+
+Word: reasinably
+Total generated candidates: 546
+Known candidates (1):
+   reasonably      freq=9
+=> Selected best candidate: reasonably (freq=9)
+
+Word: reciever
+Total generated candidates: 442
+Known candidates (1):
+   receiver        freq=4
+=> Selected best candidate: receiver (freq=4)
+
+Word: redecoraton
+Total generated candidates: 598
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: refernce
+Total generated candidates: 442
+Known candidates (1):
+   reference       freq=44
+=> Selected best candidate: reference (freq=44)
+
+Word: rference
+Total generated candidates: 442
+Known candidates (1):
+   reference       freq=44
+=> Selected best candidate: reference (freq=44)
+
+Word: refernces
+Total generated candidates: 494
+Known candidates (1):
+   references      freq=33
+=> Selected best candidate: references (freq=33)
+
+Word: referrred
+Total generated candidates: 490
+Known candidates (1):
+   referred        freq=67
+=> Selected best candidate: referred (freq=67)
+
+Word: refferred
+Total generated candidates: 490
+Known candidates (1):
+   referred        freq=67
+=> Selected best candidate: referred (freq=67)
+
+Word: regsirties
+Total generated candidates: 546
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: reltionship
+Total generated candidates: 598
+Known candidates (1):
+   relationship    freq=9
+=> Selected best candidate: relationship (freq=9)
+
+Word: relable
+Total generated candidates: 390
+Known candidates (1):
+   reliable        freq=20
+=> Selected best candidate: reliable (freq=20)
+
+Word: renoved
+Total generated candidates: 390
+Known candidates (1):
+   removed         freq=178
+=> Selected best candidate: removed (freq=178)
+
+Word: repititious
+Total generated candidates: 598
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: reoprts
+Total generated candidates: 390
+Known candidates (1):
+   reports         freq=54
+=> Selected best candidate: reports (freq=54)
+
+Word: represntatives
+Total generated candidates: 754
+Known candidates (1):
+   representatives freq=96
+=> Selected best candidate: representatives (freq=96)
+
+Word: rsembling
+Total generated candidates: 494
+Known candidates (1):
+   resembling      freq=52
+=> Selected best candidate: resembling (freq=52)
+
+Word: recources
+Total generated candidates: 494
+Known candidates (1):
+   resources       freq=56
+=> Selected best candidate: resources (freq=56)
+
+Word: rescources
+Total generated candidates: 546
+Known candidates (1):
+   resources       freq=56
+=> Selected best candidate: resources (freq=56)
+
+Word: resing
+Total generated candidates: 338
+Known candidates (4):
+   resign          freq=3
+   resin           freq=2
+   resting         freq=26
+   rising          freq=84
+=> Selected best candidate: rising (freq=84)
+
+Word: restictive
+Total generated candidates: 546
+Known candidates (1):
+   restrictive     freq=8
+=> Selected best candidate: restrictive (freq=8)
+
+Word: retentiaon
+Total generated candidates: 546
+Known candidates (1):
+   retention       freq=10
+=> Selected best candidate: retention (freq=10)
+
+Word: retecent
+Total generated candidates: 442
+Known candidates (1):
+   reticent        freq=3
+=> Selected best candidate: reticent (freq=3)
+
+Word: revenu
+Total generated candidates: 338
+Known candidates (1):
+   revenue         freq=39
+=> Selected best candidate: revenue (freq=39)
+
+Word: siad
+Total generated candidates: 234
+Known candidates (4):
+   sad             freq=91
+   said            freq=3464
+   siam            freq=1
+   sird            freq=1
+=> Selected best candidate: said (freq=3464)
+
+Word: satsfactory
+Total generated candidates: 598
+Known candidates (1):
+   satisfactory    freq=42
+=> Selected best candidate: satisfactory (freq=42)
+
+Word: satifies
+Total generated candidates: 442
+Known candidates (2):
+   ratifies        freq=1
+   satisfies       freq=1
+=> Selected best candidate: ratifies (freq=1)
+
+Word: scaned
+Total generated candidates: 338
+Known candidates (2):
+   scanned         freq=8
+   scared          freq=19
+=> Selected best candidate: scared (freq=19)
+
+Word: srambled
+Total generated candidates: 442
+Known candidates (1):
+   scrambled       freq=2
+=> Selected best candidate: scrambled (freq=2)
+
+Word: seaarch
+Total generated candidates: 388
+Known candidates (1):
+   search          freq=59
+=> Selected best candidate: search (freq=59)
+
+Word: searchde
+Total generated candidates: 442
+Known candidates (1):
+   searched        freq=13
+=> Selected best candidate: searched (freq=13)
+
+Word: salected
+Total generated candidates: 442
+Known candidates (1):
+   selected        freq=49
+=> Selected best candidate: selected (freq=49)
+
+Word: seleactive
+Total generated candidates: 546
+Known candidates (1):
+   selective       freq=2
+=> Selected best candidate: selective (freq=2)
+
+Word: sepaphore
+Total generated candidates: 494
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: seperate
+Total generated candidates: 442
+Known candidates (1):
+   separate        freq=69
+=> Selected best candidate: separate (freq=69)
+
+Word: seprate
+Total generated candidates: 390
+Known candidates (1):
+   separate        freq=69
+=> Selected best candidate: separate (freq=69)
+
+Word: seperating
+Total generated candidates: 546
+Known candidates (1):
+   separating      freq=14
+=> Selected best candidate: separating (freq=14)
+
+Word: simialirt
+Total generated candidates: 494
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: similariy
+Total generated candidates: 494
+Known candidates (2):
+   similarity      freq=2
+   similarly       freq=19
+=> Selected best candidate: similarly (freq=19)
+
+Word: similarily
+Total generated candidates: 546
+Known candidates (2):
+   similarity      freq=2
+   similarly       freq=19
+=> Selected best candidate: similarly (freq=19)
+
+Word: simlest
+Total generated candidates: 390
+Known candidates (1):
+   simplest        freq=14
+=> Selected best candidate: simplest (freq=14)
+
+Word: sixze
+Total generated candidates: 286
+Known candidates (1):
+   size            freq=184
+=> Selected best candidate: size (freq=184)
+
+Word: sizable
+Total generated candidates: 390
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: slighlty
+Total generated candidates: 442
+Known candidates (1):
+   slightly        freq=84
+=> Selected best candidate: slightly (freq=84)
+
+Word: sciety
+Total generated candidates: 338
+Known candidates (1):
+   society         freq=169
+=> Selected best candidate: society (freq=169)
+
+Word: sofware
+Total generated candidates: 390
+Known candidates (1):
+   software        freq=8
+=> Selected best candidate: software (freq=8)
+
+Word: aource
+Total generated candidates: 338
+Known candidates (1):
+   source          freq=97
+=> Selected best candidate: source (freq=97)
+
+Word: spaekers
+Total generated candidates: 442
+Known candidates (1):
+   speakers        freq=5
+=> Selected best candidate: speakers (freq=5)
+
+Word: sprlling
+Total generated candidates: 440
+Known candidates (1):
+   spelling        freq=4
+=> Selected best candidate: spelling (freq=4)
+
+Word: stnadard
+Total generated candidates: 442
+Known candidates (1):
+   standard        freq=54
+=> Selected best candidate: standard (freq=54)
+
+Word: strater
+Total generated candidates: 390
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: stetemets
+Total generated candidates: 494
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: ststion
+Total generated candidates: 390
+Known candidates (1):
+   station         freq=52
+=> Selected best candidate: station (freq=52)
+
+Word: stratigically
+Total generated candidates: 700
+Known candidates (1):
+   strategically   freq=1
+=> Selected best candidate: strategically (freq=1)
+
+Word: stongly
+Total generated candidates: 390
+Known candidates (2):
+   stonily         freq=1
+   strongly        freq=41
+=> Selected best candidate: strongly (freq=41)
+
+Word: structrue
+Total generated candidates: 494
+Known candidates (1):
+   structure       freq=41
+=> Selected best candidate: structure (freq=41)
+
+Word: strcture
+Total generated candidates: 442
+Known candidates (2):
+   stricture       freq=3
+   structure       freq=41
+=> Selected best candidate: structure (freq=41)
+
+Word: structurs
+Total generated candidates: 494
+Known candidates (2):
+   structure       freq=41
+   structures      freq=43
+=> Selected best candidate: structures (freq=43)
+
+Word: suscribers
+Total generated candidates: 546
+Known candidates (1):
+   subscribers     freq=1
+=> Selected best candidate: subscribers (freq=1)
+
+Word: substantal
+Total generated candidates: 546
+Known candidates (1):
+   substantial     freq=9
+=> Selected best candidate: substantial (freq=9)
+
+Word: subsructures
+Total generated candidates: 650
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: succede
+Total generated candidates: 388
+Known candidates (1):
+   succeed         freq=16
+=> Selected best candidate: succeed (freq=16)
+
+Word: successor
+Total generated candidates: 490
+Known candidates (2):
+   successor       freq=17
+   successors      freq=3
+=> Selected best candidate: successor (freq=17)
+
+Word: uggested
+Total generated candidates: 440
+Known candidates (1):
+   suggested       freq=69
+=> Selected best candidate: suggested (freq=69)
+
+Word: sorround
+Total generated candidates: 440
+Known candidates (1):
+   surround        freq=12
+=> Selected best candidate: surround (freq=12)
+
+Word: synshronise
+Total generated candidates: 598
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: tuaght
+Total generated candidates: 338
+Known candidates (1):
+   taught          freq=21
+=> Selected best candidate: taught (freq=21)
+
+Word: tequniques
+Total generated candidates: 546
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: termial
+Total generated candidates: 390
+Known candidates (1):
+   terminal        freq=24
+=> Selected best candidate: terminal (freq=24)
+
+Word: thrir
+Total generated candidates: 286
+Known candidates (1):
+   their           freq=2955
+=> Selected best candidate: their (freq=2955)
+
+Word: thre
+Total generated candidates: 234
+Known candidates (8):
+   the             freq=80030
+   thee            freq=26
+   there           freq=2972
+   three           freq=584
+   threw           freq=96
+   tire            freq=3
+   tore            freq=18
+   tyre            freq=1
+=> Selected best candidate: the (freq=80030)
+
+Word: thwre
+Total generated candidates: 286
+Known candidates (2):
+   there           freq=2972
+   thwee           freq=3
+=> Selected best candidate: there (freq=2972)
+
+Word: therfore
+Total generated candidates: 442
+Known candidates (1):
+   therefore       freq=186
+=> Selected best candidate: therefore (freq=186)
+
+Word: thses
+Total generated candidates: 286
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: thrity
+Total generated candidates: 338
+Known candidates (2):
+   thirty          freq=123
+   thrifty         freq=3
+=> Selected best candidate: thirty (freq=123)
+
+Word: thhis
+Total generated candidates: 284
+Known candidates (1):
+   this            freq=4063
+=> Selected best candidate: this (freq=4063)
+
+Word: thousnand
+Total generated candidates: 494
+Known candidates (1):
+   thousand        freq=259
+=> Selected best candidate: thousand (freq=259)
+
+Word: threee
+Total generated candidates: 334
+Known candidates (2):
+   three           freq=584
+   threes          freq=4
+=> Selected best candidate: three (freq=584)
+
+Word: tittles
+Total generated candidates: 388
+Known candidates (2):
+   titles          freq=7
+   tittle          freq=1
+=> Selected best candidate: titles (freq=7)
+
+Word: tollerance
+Total generated candidates: 544
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: traditonal
+Total generated candidates: 546
+Known candidates (1):
+   traditional     freq=4
+=> Selected best candidate: traditional (freq=4)
+
+Word: trafic
+Total generated candidates: 338
+Known candidates (2):
+   traffic         freq=22
+   tragic          freq=9
+=> Selected best candidate: traffic (freq=22)
+
+Word: transfered
+Total generated candidates: 546
+Known candidates (1):
+   transferred     freq=52
+=> Selected best candidate: transferred (freq=52)
+
+Word: ransmission
+Total generated candidates: 596
+Known candidates (1):
+   transmission    freq=8
+=> Selected best candidate: transmission (freq=8)
+
+Word: unconviced
+Total generated candidates: 546
+Known candidates (1):
+   unconvinced     freq=2
+=> Selected best candidate: unconvinced (freq=2)
+
+Word: uncritiacl
+Total generated candidates: 546
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: universit
+Total generated candidates: 494
+Known candidates (1):
+   university      freq=31
+=> Selected best candidate: university (freq=31)
+
+Word: unecessary
+Total generated candidates: 544
+Known candidates (2):
+   necessary       freq=327
+   unnecessary     freq=30
+=> Selected best candidate: necessary (freq=327)
+
+Word: innecessary
+Total generated candidates: 594
+Known candidates (1):
+   unnecessary     freq=30
+=> Selected best candidate: unnecessary (freq=30)
+
+Word: unscamble
+Total generated candidates: 494
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: usefullness
+Total generated candidates: 594
+Known candidates (1):
+   usefulness      freq=6
+=> Selected best candidate: usefulness (freq=6)
+
+Word: usueal
+Total generated candidates: 338
+Known candidates (1):
+   usual           freq=178
+=> Selected best candidate: usual (freq=178)
+
+Word: vqried
+Total generated candidates: 338
+Known candidates (1):
+   varied          freq=12
+=> Selected best candidate: varied (freq=12)
+
+Word: vectore
+Total generated candidates: 390
+Known candidates (1):
+   vector          freq=1
+=> Selected best candidate: vector (freq=1)
+
+Word: versility
+Total generated candidates: 494
+Known candidates (0):
+=> No known candidates found. Output: (blank line)
+
+Word: waitng
+Total generated candidates: 338
+Known candidates (1):
+   waiting         freq=183
+=> Selected best candidate: waiting (freq=183)
+
+Word: wether
+Total generated candidates: 338
+Known candidates (4):
+   ether           freq=8
+   nether          freq=1
+   weather         freq=42
+   whether         freq=357
+=> Selected best candidate: whether (freq=357)
+
+Word: wgich
+Total generated candidates: 286
+Known candidates (1):
+   which           freq=4842
+=> Selected best candidate: which (freq=4842)
+
+Word: whihc
+Total generated candidates: 286
+Known candidates (1):
+   which           freq=4842
+=> Selected best candidate: which (freq=4842)
+
+Word: whic
+Total generated candidates: 234
+Known candidates (5):
+   which           freq=4842
+   whig            freq=18
+   whim            freq=6
+   whip            freq=40
+   whit            freq=3
+=> Selected best candidate: which (freq=4842)
+
+Word: wiil
+Total generated candidates: 232
+Known candidates (2):
+   wail            freq=9
+   will            freq=1577
+=> Selected best candidate: will (freq=1577)
+
+Word: wondrful
+Total generated candidates: 442
+Known candidates (1):
+   wonderful       freq=30
+=> Selected best candidate: wonderful (freq=30)
+
+Word: worht
+Total generated candidates: 286
+Known candidates (2):
+   worst           freq=36
+   worth           freq=70
+=> Selected best candidate: worth (freq=70)
+
+Word: wouls
+Total generated candidates: 286
+Known candidates (3):
+   souls           freq=17
+   wools           freq=1
+   would           freq=1953
+=> Selected best candidate: would (freq=1953)
+
