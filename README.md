@@ -21,11 +21,11 @@ The correct spelling is selected based on **word frequency** from `corpus.txt`.
 
 ### 1. Baseline Model
 ```bash
-python main_corrector.py corpus.txt test-words-misspelled.txt output_baseline.txt
+python spell_corrector.py corpus.txt test-words-misspelled.txt output_baseline.txt
 ```
 ### 2. Evaluate Accuracy
 ```bash
-python main_corrector.py corpus.txt test-words-misspelled.txt output_baseline.txt --correct test-words-correct.txt
+python spell_corrector.py corpus.txt test-words-misspelled.txt output_baseline.txt --correct test-words-correct.txt
 ```
 ### 3. Enhanced Model (Edit Distance 2)
 The enhanced model automatically runs after the baseline and saves its results as:
@@ -36,10 +36,10 @@ output_baseline_ed2.txt
 ### 4. Optional Debug / Analysis Mode
 Use this mode to see detailed candidate generation and save an analysis report:
 ```bash
-python main_corrector.py corpus.txt test-words-misspelled.txt output.txt --correct test-words-correct.txt --debug --analyze outputs/analysis.txt
+python spell_corrector.py corpus.txt test-words-misspelled.txt output.txt --correct test-words-correct.txt --debug --analyze outputs/analysis.txt
 ```
 
 ### 5. Testing with Custom Input
 ```bash
-python main_corrector.py corpus.txt my_misspelled.txt my_output.txt
+python spell_corrector.py corpus.txt my_misspelled.txt my_output.txt
 ```
