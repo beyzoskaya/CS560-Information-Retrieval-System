@@ -2,6 +2,7 @@ import re
 import sys
 from collections import Counter
 import argparse
+import matplotlib.pyplot as plt
 
 """
 Generate all candidate words C with Damerau–Levenshtein distance 1 from x (edits1(x))
@@ -10,8 +11,6 @@ If K is empty → no single-edit correction found → output a blank line (basel
 Otherwise, choose: best = argmax_{w ∈ K} frequency(w)
 meaning --> pick the known candidate with the highest frequency in the corpus
 """
-
-import argparse
 
 def parse_args():
 
@@ -43,7 +42,7 @@ def parse_args():
 
     return parser.parse_args()
 
-# Corpus tokenization
+# tokenization
 def words(text):
     return re.findall(r"[a-z]+", text.lower())
 
@@ -51,6 +50,8 @@ def build_dictionary(corpus_file, debug=False):
     if debug: print(f"[INFO] Building dictionary from: {corpus_file}")
     with open(corpus_file, 'r', encoding='utf-8') as f:
         corpus = f.read().lower()
+        print(f"[INFO] Corpus size: {len(corpus)} characters")
+        print("[INFO] Sample from corpus:", corpus[:100] + "...")
     word_freq = Counter(words(corpus))
     if debug:
         print(f"[INFO] Dictionary built with {len(word_freq)} unique words.")
@@ -77,22 +78,26 @@ def edits1(word, debug=False):
         if R:
             new_word = L + R[1:]
             deletes.append(new_word)
+            print(f"[DEBUG] Deletion: {word} -> {new_word}")
 
         # Transposition: swap the first two characters of the right part 
         if len(R) > 1:
             new_word = L + R[1] + R[0] + R[2:]
             transposes.append(new_word)
+            print(f"[DEBUG] Transposition: {word} -> {new_word}")
 
         # Replacement: replace first character of right part with each letter
         if R:
             for c in letters:
                 new_word = L + c + R[1:]
                 replaces.append(new_word)
+                print(f"[DEBUG] Replacement: {word} -> {new_word}")
 
         # Insertion: insert each possible letter between left and right 
         for c in letters:
             new_word = L + c + R
             inserts.append(new_word)
+            print(f"[DEBUG] Insertion: {word} -> {new_word}")
 
     all_edits = set(deletes + transposes + replaces + inserts)
     if debug:
@@ -121,6 +126,9 @@ def correct(word, word_freq, debug=False, analysis_file=None):
 
     candidates = edits1(word, debug)
     known_candidates = known(candidates, word_freq)
+    print(f"[DEBUG] Candidates generated: {len(candidates)}")
+    print("[DEBUG] Known candidates found:", known_candidates)
+    print("[DEBUG] Example frequencies:", {w: word_freq[w] for w in list(known_candidates)[:5]})
 
     if analysis_file:
         analysis_file.write(f"Word: {word}\n")
@@ -233,7 +241,7 @@ def compute_accuracy(predicted_file, gold_file):
     print(f"[RESULT] Accuracy: {accuracy*100:.2f}% ({correct}/{total})")
     return accuracy
 
-def compare_outputs(baseline_file, ed2_file, gold_file=None, diff_output_file="differences.txt"):
+def compare_outputs(baseline_file, ed2_file, gold_file=None, diff_output_file="outputs/differences.txt"):
 
     with open(baseline_file, 'r', encoding='utf-8') as f:
         baseline = [line.strip() for line in f]
@@ -311,7 +319,7 @@ def main():
             baseline_file=args.output_file,
             ed2_file=ed2_output,
             gold_file=args.correct_file,
-            diff_output_file="differences.txt"
+            diff_output_file="outputs/differences.txt"
         )
         print_top_differences(differences, top_n=10)
 
